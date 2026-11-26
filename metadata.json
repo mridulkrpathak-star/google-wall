@@ -1,0 +1,6 @@
+{
+  "name": "Wallpaper Maya",
+  "description": "Depth-effect lock-screen wallpaper studio and MediaPipe multiclass foreground segmentation workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
